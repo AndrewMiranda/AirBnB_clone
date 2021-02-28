@@ -73,13 +73,10 @@ h4{
 li{
     margin-top: 10%;
 }
-
-
 ul{
     list-style-type: none;
     padding-bottom: 5%;
 }
-
 .locations:hover > .popover {
     visibility: visible;
     margin-bottom: 50px;
@@ -87,7 +84,6 @@ ul{
 .amenities:hover > .popover {
     visibility: visible;
 }
-
 .locations:hover > .popover_2 {
     visibility: visible;
     margin-bottom: 50px;
